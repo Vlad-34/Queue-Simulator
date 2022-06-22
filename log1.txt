@@ -1,0 +1,81 @@
+Time 1
+Server 1: 
+Server 2: 
+Time 2
+Server 1: 
+Server 2: 
+Time 3
+Server 1: 
+Server 2: 
+Time 4
+Server 1: [0 3 3]
+Server 2: 
+Time 5
+Server 1: [0 3 2]
+Server 2: 
+Time 6
+Server 1: [0 3 1]
+Server 2: 
+Time 7
+Server 1: 
+Server 2: 
+Time 8
+Server 1: 
+Server 2: 
+Time 9
+Server 1: 
+Server 2: 
+Time 10
+Server 1: 
+Server 2: 
+Time 11
+Server 1: 
+Server 2: 
+Time 12
+Server 1: 
+Server 2: 
+Time 13
+Server 1: 
+Server 2: 
+Time 14
+Server 1: 
+Server 2: 
+Time 15
+Server 1: [1 14 4]
+Server 2: 
+Time 16
+Server 1: [1 14 3]
+Server 2: 
+Time 17
+Server 1: [1 14 2]
+Server 2: [2 16 4]
+Time 18
+Server 1: [1 14 1]
+Server 2: [2 16 3]
+Time 19
+Server 1: 
+Server 2: [2 16 2]
+Time 20
+Server 1: 
+Server 2: [2 16 1]
+Time 21
+Server 1: 
+Server 2: 
+Time 22
+Server 1: 
+Server 2: 
+Time 22
+Server 1: 
+Server 2: [3 22 3]
+Time 23
+Server 1: 
+Server 2: [3 22 2]
+Time 24
+Server 1: 
+Server 2: [3 22 1]
+Time 25
+Server 1: 
+Server 2: 
+
+Average Service Time: 3.5
+Peak hour: 4
